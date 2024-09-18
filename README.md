@@ -1,6 +1,5 @@
 # Parallax Platform Survivor Game
 
-## Overview
 Welcome to **Platform Survivor** where you must keep moving to stay alive on a constantly scrolling platform with a parallax background. Avoid falling behind or falling off the platform as you race against time! The game tracks your current survival time and stores your all-time high score, even across multiple play sessions.
 
 ## Features
@@ -42,6 +41,8 @@ To run the game locally, follow these steps:
     - Click the Play button to start the game in the Unity Editor.
 
 ![image](https://github.com/user-attachments/assets/f3b42a46-ca87-482c-9b6a-033ff064868d)
+
 ![image](https://github.com/user-attachments/assets/c49c81e8-b336-49f9-960a-96a31d6a591c)
+
 ![image](https://github.com/user-attachments/assets/4e5e073b-3629-465b-b792-0ea58624b3c4)
 
